@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Yacquub Adan</h1>
+<h1 align="center">Hi 👋, my name is Yacquub Adan</h1>
 <h3 align="center">A passionate Software Engineer based in England.</h3>
 
 - 🔭 I’m currently working on [CovidBlogs](https://github.com/YacqubAdan/CovidBlogs)
