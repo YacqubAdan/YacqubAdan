@@ -1,4 +1,4 @@
-<h1 align="center">DevOps Engineer Yacquub Adan</h1>
+<h1 align="center">Yacquub Adan</h1>
 <h3 align="center">Passionate and dedicated DevOps Engineer 🚀 with a love for automating infrastructure, deploying scalable applications, and refining CI/CD pipelines. I enjoy bridging the gap between development and operations to ensure smooth, efficient workflows.</h3>
 
 - 🔭 I’m currently working on [qr-code-devops](https://github.com/YacqubAdan/qr-code-devops)
