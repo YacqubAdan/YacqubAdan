@@ -1,5 +1,5 @@
 <h1 align="center">Yacquub Adan 👋</h1>
-<h3 align="center">DevOps Engineer 🚀 | Automating Infrastructure | Scaling Applications | CI/CD Enthusiast</h3>
+<h3 align="center">DevOps Engineer 🚀 | Automating Infrastructure | Scaling Applications | Kubernetes Enthusiast</h3>
 
 <p align="center">
   Enjoy optimizing processes, building scalable systems, and bringing ideas to life through automation.
