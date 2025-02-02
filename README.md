@@ -1,14 +1,17 @@
-<h1 align="center">Hi there, I'm Yacquub Adan 👋</h1>
+<h1 align="center">Yacquub Adan 👋</h1>
 <h3 align="center">DevOps Engineer 🚀 | Automating Infrastructure | Scaling Applications | CI/CD Enthusiast</h3>
 
 <p align="center">
-  Passionate about bridging the gap between development and operations to ensure seamless, efficient workflows. I love optimizing processes, building scalable systems, and bringing ideas to life through automation.
+  Enjoy optimizing processes, building scalable systems, and bringing ideas to life through automation.
 </p>
 
 ---
 
-### 🌱 Currently Working On:
+### 🌱 Recent Projects:
+- [**ecs-threat-composer**](https://github.com/YacqubAdan/ecs-threat-composer) - in the works...
 - [**wordpress-tf-aws**](https://github.com/YacqubAdan/wordpress-tf-aws) – Automating WordPress deployment with Terraform on AWS.
+- [**qr-code-devops**](https://github.com/YacqubAdan/qr-code-devops)
+- [**fast-api-docker**](https://github.com/YacqubAdan/fast-api-docker)
 
 ---
 
