@@ -8,7 +8,7 @@
 ---
 
 ### 🌱 Recent Projects:
-- [**ecs-threat-composer**](https://github.com/YacqubAdan/ecs-threat-composer) - in the works...
+- [**ecs-threat-composer**](https://github.com/YacqubAdan/ecs-threat-composer) - Production grade threat composer App
 - [**wordpress-tf-aws**](https://github.com/YacqubAdan/wordpress-tf-aws) 
 - [**qr-code-devops**](https://github.com/YacqubAdan/qr-code-devops)
 - [**fast-api-docker**](https://github.com/YacqubAdan/fast-api-docker)
