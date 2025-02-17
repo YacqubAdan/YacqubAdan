@@ -47,7 +47,7 @@
 ---
 
 ### 💬 Let’s Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/YacquubAdan)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yacquub-adan/)
 - 📧 yacquubadan.1@gmail.com
 
 ---
