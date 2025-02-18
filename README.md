@@ -8,9 +8,9 @@
 ---
 
 ### 🌱 Recent Projects:
-- [**ecs-threat-composer**](https://github.com/YacqubAdan/ecs-threat-composer) - Production grade threat composer App
-- [**wordpress-tf-aws**](https://github.com/YacqubAdan/wordpress-tf-aws) 
-- [**qr-code-devops**](https://github.com/YacqubAdan/qr-code-devops)
+- [**ecs-threat-composer**](https://github.com/YacqubAdan/ecs-threat-composer) - Production-Grade Threat Composer Application built with AWS, Terraform, Docker, and GitHub Actions, deployed on a multi-domain SSL-secured website with automated CI/CD and scalable cloud infrastructure.
+- [**labs**](https://github.com/YacqubAdan/labs) - Centralised lab playground
+- [**wordpress-tf-aws**](https://github.com/YacqubAdan/wordpress-tf-aws) - Production-Grade Terraform Infrastructure for Stage and Prod Environments
 - [**fast-api-docker**](https://github.com/YacqubAdan/fast-api-docker)
 
 ---
