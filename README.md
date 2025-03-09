@@ -8,9 +8,9 @@
 ---
 
 ### 🌱 Recent Projects:
-- [**ecs-threat-composer**](https://github.com/YacqubAdan/ecs-threat-composer) - Production grade Threat Composer App built with AWS, Terraform, Docker, and GitHub Actions, deployed on a multi-domain SSL-secured website with automated ci cd and scalable cloud infrastructure.
+- [**ecs-threat-composer**](https://github.com/YacqubAdan/ecs-threat-composer) - Production grade Threat Composer App built with AWS, Terraform, Docker, and GitHub Actions, deployed on a multi-domain SSL-secured website with automated ci cd and scalable cloud infra.
 - [**k8s-advanced-lab**](https://github.com/YacqubAdan/k8s-advanced-lab) - An advanced kubernetes lab containing terraform to create EKS Cluster, Helm Charts for external-dns, cert-manager and ArgoCD
-- [**wordpress-tf-aws**](https://github.com/YacqubAdan/wordpress-tf-aws) - Production grade terraform infrastrucute for Stage and Prod Environments.
+- [**wordpress-tf-aws**](https://github.com/YacqubAdan/wordpress-tf-aws) - Production grade terraform infra for Stage and Prod Environments.
 - [**labs**](https://github.com/YacqubAdan/labs) - Centralised lab playground.
 
 ---
