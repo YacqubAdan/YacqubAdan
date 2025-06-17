@@ -28,7 +28,6 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=YacqubAdan&style=flat-square)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YacqubAdan&show_icons=true&theme=radical" alt="Yacquub's GitHub stats" />
